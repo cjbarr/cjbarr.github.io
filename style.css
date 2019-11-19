@@ -1,6 +1,9 @@
 h1 {font-size: 48px;
   text-align: center;
 }
+.title {font-color:white;
+}
+
 h2{text-align:center;
   border-bottom: 2px solid black;
 }
