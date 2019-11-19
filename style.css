@@ -1,17 +1,12 @@
 
 .module {
-  background: 
-    linear-gradient(
-      rgba(0, 0, 0, 0.6),
-      rgba(0, 0, 0, 0.6)
-    ),
-    url(https://images.unsplash.com/photo-1528837516156-0a7225a43641?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2091&q=80);
+  background: url(https://images.unsplash.com/photo-1528837516156-0a7225a43641?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2091&q=80);
   background-size: cover;
-  width: 300px;
-  height: 200px;
+  width: 600px;
+  height: 400px;
   margin: 10px 0 0 10px;
   position: relative;
-  float: left;
+  float: center;
 }
 .mid h2 {
   font-weight: 900;
