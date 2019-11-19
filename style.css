@@ -5,8 +5,7 @@
   width: 712px;
   height: 400px;
   margin: 10px 0 0 10px;
-  position: relative;
-  float: center;
+  position: center;
   border:10px solid white;
 }
 .mid h1 {
