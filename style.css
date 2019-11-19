@@ -2,6 +2,7 @@ h1 {font-size: 48px;
   text-align: center;
 }
 body{background-color: #e3ded0;
+  font-family:"Times New Roman";
   text-align:center;}
 
 img.resize{max-width:25%;
