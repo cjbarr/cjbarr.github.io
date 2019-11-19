@@ -1,7 +1,8 @@
 h1 {font-size: 48px;
   text-align: center;
 }
-.resize {max-height:33%;
+.resize {text-alighn:center;
+  max-height:33%;
   max-width:33%;
 }
 body{background-color: #e3ded0;
