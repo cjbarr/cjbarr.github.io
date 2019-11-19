@@ -1,7 +1,10 @@
 h1 {font-size: 48px;
   text-align: center;
 }
-.title {font-color: white;
+.imageContainer {font-color: white;
+  width:200px;
+  height:200px;
+  background-image: url(https://images.unsplash.com/photo-1528837516156-0a7225a43641?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2091&q=80)
 }
 body{background-color: #e3ded0;
   font-family:Arial;}
