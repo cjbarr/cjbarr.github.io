@@ -2,11 +2,13 @@ h1 {font-size: 48px;
   text-align: center;
 }
 h2{text-align:center;
+  border: 1px solid black;
+  padding:1px;
 }
 .resize {align:center;
   max-height:33%;
-  max-width:33%
-    border:2px solid white;
+  max-width:33%;
+  border:2px solid white;
   padding:2px;
   margin:2px;
 }
