@@ -3,12 +3,14 @@ h1 {font-size: 48px;
 }
 h2{text-align:center;
   border: 1px solid black;
+  border-radius: 5px;
 }
 .resize {display:block;
   margin-left:auto;
   margin-right:auto;
   width:66%;
   border:10px solid white;
+ 
 }
 body{background-color: #e3ded0;
   font-family:Arial;
