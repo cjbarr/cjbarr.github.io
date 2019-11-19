@@ -7,6 +7,7 @@
   margin: 10px 0 0 10px;
   position: relative;
   float: center;
+  border:10px solid white;
 }
 .mid h1 {
   color: white;
