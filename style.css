@@ -5,19 +5,6 @@ h2{text-align:center;
   border-bottom: 2px solid black;
 }
 
-.container{
-  position:relative;
-  text-align:center;
-  text-color:white;
-  width:66%;
-}
-
-.centered{
-  position:absolute;
-  top:50%;
-  left:50%;
-  transform: translate (-50%,-50%);
-}
 
     .resize {display:block;
   margin-left:auto;
