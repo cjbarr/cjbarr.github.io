@@ -1,7 +1,7 @@
 h1 {font-size: 48px;
   text-align: center;
 }
-h1.title {font-color: white;
+.title {font-color: white;
 }
 body{background-color: #e3ded0;
   font-family:Arial;}
