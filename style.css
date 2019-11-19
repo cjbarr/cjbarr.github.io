@@ -4,6 +4,6 @@ h1 {font-size: 48px;
 body{background-color: #e3ded0;
   text-align:center;}
 
-img.resize{max-width:100%;
+img.resize{max-width:25%;
   max-height:25%;
 }
