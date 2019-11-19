@@ -1,14 +1,12 @@
 h1 {font-size: 48px;
   text-align: center;
 }
-.imageContainer {font-color: white;
-  font-size: 48px;
-  width:200px;
-  height:200px;
-  background-image: url(https://images.unsplash.com/photo-1528837516156-0a7225a43641?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2091&q=80)
+.resize {max-height:33%;
+  max-width:33%;
 }
 body{background-color: #e3ded0;
-  font-family:Arial;}
+  font-family:Arial;
+}
 
 img.resize{max-width:33%;
   max-height:33%;
