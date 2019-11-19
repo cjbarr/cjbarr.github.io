@@ -17,6 +17,14 @@ h2{text-align:center;
  
 }
 
+
+    .small {display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:5%;
+ 
+}
+
 body{background-color: #e3ded0;
   font-family:Arial;
   margin-right:60px;
