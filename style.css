@@ -26,10 +26,9 @@ h2{text-align:center;
 
 
 .left{text align:left;
+  display:inline;
 }
 .right{text-align:right;
-  display:inline;
- 
 }
 
     .small {display:block;
