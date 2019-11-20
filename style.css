@@ -26,9 +26,8 @@ h2{text-align:center;
 
 
 .left{text align:left;
-  display:inline;
 }
-.right{
+.right{display:inline;
   text-align:right;
 }
 
