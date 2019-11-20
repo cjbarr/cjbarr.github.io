@@ -19,12 +19,13 @@
 
 }
 
-
 h2{text-align:center;
   border-bottom: 2px solid black;
 }
 
-.container {display:flex;
+.container {
+  justify-content: space-between;
+  
 }
 
     .small {display:block;
