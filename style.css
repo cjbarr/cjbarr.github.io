@@ -26,7 +26,8 @@
 h2{text-align:center;
   border-bottom: 2px solid black;
 }
-
+h5{font-size:125%;
+}
 .container {display:flex;
   justify-content: space-between;
   line-height:40%;
