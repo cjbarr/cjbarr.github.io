@@ -28,7 +28,7 @@ h2{text-align:center;
 .left{text align:left;
   display:inline;
 }
-.right{display:inline;
+.right{float:right;
   text-align:right;
 }
 
