@@ -29,6 +29,7 @@ h2{text-align:center;
 
 .container {display:flex;
   justify-content: space-between;
+  line-height:50%;
   
 }
 
