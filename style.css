@@ -23,7 +23,7 @@ h2{text-align:center;
   border-bottom: 2px solid black;
 }
 
-.container {
+.container {display:flex;
   justify-content: space-between;
   
 }
