@@ -24,11 +24,8 @@ h2{text-align:center;
   border-bottom: 2px solid black;
 }
 
-
-.left{text align:left;
-}
-.right{display:inline;
-  text-align:right;
+.container {display:flex;
+  justify-content:space-between;
 }
 
     .small {display:block;
